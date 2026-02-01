@@ -1,0 +1,10 @@
+ctf_city_day - TDM/CTF (jCTF mod)
+created by [POD]ILL bot (0)
+site: http://www.podillbot.3141.ru/
+
+Map created 11.2016
+specially for jCTF mod.
+
+Info for server admins:
+File ctf_city_day.ctf contains flag positions.
+Without this mod file ctf_city_day.ctf does nothing.
